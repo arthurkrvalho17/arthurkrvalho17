@@ -20,7 +20,7 @@ Não tenho anos de experiência. Tenho projetos que funcionam e a mentalidade ce
 
 ## 🚀 Projeto em destaque
 
-### [`api-split-payment`](link-do-repo-aqui)
+### [`api-split-payment`]https://github.com/arthurkrvalho17/split-payment-api
 API para divisão automática de comissões e taxas — o tipo de solução que move dinheiro nos bastidores dos maiores marketplaces do Brasil.  
 Construída com Java Spring e PostgreSQL, pensada para ser robusta desde o início.
 
